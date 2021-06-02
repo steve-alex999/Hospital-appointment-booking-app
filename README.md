@@ -44,8 +44,3 @@ Steps for installation and running:
 	
 	After writing the cloud functions save the file and deploy using the below command
 	$ firebase deploy --only functions
-
-
-
-
-Github link:  https://github.com/mahidharvarma9/Medical_appointment_manager
