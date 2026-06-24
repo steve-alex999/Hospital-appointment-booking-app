@@ -4,6 +4,7 @@ Medical appointment manager (leso):
 
 The app supports two roles of user:
 *Patient(USER)
+
 *Admin(Hospital management)
 
 This app helps patients manage their medical appointments (cancel, book and view) and also provides their live queue position.
